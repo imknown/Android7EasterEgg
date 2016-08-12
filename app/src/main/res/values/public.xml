@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public name="back" id="0x7f020000" type="drawable"/>
+    <public name="belly" id="0x7f020001" type="drawable"/>
+    <public name="body" id="0x7f020002" type="drawable"/>
+    <public name="bowtie" id="0x7f020003" type="drawable"/>
+    <public name="cap" id="0x7f020004" type="drawable"/>
+    <public name="collar" id="0x7f020005" type="drawable"/>
+    <public name="face_spot" id="0x7f020006" type="drawable"/>
+    <public name="food_bits" id="0x7f020007" type="drawable"/>
+    <public name="food_chicken" id="0x7f020008" type="drawable"/>
+    <public name="food_dish" id="0x7f020009" type="drawable"/>
+    <public name="food_donut" id="0x7f02000a" type="drawable"/>
+    <public name="food_sysuituna" id="0x7f02000b" type="drawable"/>
+    <public name="foot1" id="0x7f02000c" type="drawable"/>
+    <public name="foot2" id="0x7f02000d" type="drawable"/>
+    <public name="foot3" id="0x7f02000e" type="drawable"/>
+    <public name="foot4" id="0x7f02000f" type="drawable"/>
+    <public name="head" id="0x7f020010" type="drawable"/>
+    <public name="ic_close" id="0x7f020011" type="drawable"/>
+    <public name="ic_share" id="0x7f020012" type="drawable"/>
+    <public name="icon" id="0x7f020013" type="drawable"/>
+    <public name="left_ear" id="0x7f020014" type="drawable"/>
+    <public name="left_ear_inside" id="0x7f020015" type="drawable"/>
+    <public name="left_eye" id="0x7f020016" type="drawable"/>
+    <public name="leg1" id="0x7f020017" type="drawable"/>
+    <public name="leg2" id="0x7f020018" type="drawable"/>
+    <public name="leg2_shadow" id="0x7f020019" type="drawable"/>
+    <public name="leg3" id="0x7f02001a" type="drawable"/>
+    <public name="leg4" id="0x7f02001b" type="drawable"/>
+    <public name="mouth" id="0x7f02001c" type="drawable"/>
+    <public name="nose" id="0x7f02001d" type="drawable"/>
+    <public name="right_ear" id="0x7f02001e" type="drawable"/>
+    <public name="right_ear_inside" id="0x7f02001f" type="drawable"/>
+    <public name="right_eye" id="0x7f020020" type="drawable"/>
+    <public name="stat_icon" id="0x7f020021" type="drawable"/>
+    <public name="tail" id="0x7f020022" type="drawable"/>
+    <public name="tail_cap" id="0x7f020023" type="drawable"/>
+    <public name="tail_shadow" id="0x7f020024" type="drawable"/>
+
+    <public name="cat_view" id="0x7f030000" type="layout"/>
+    <public name="edit_text" id="0x7f030001" type="layout"/>
+    <public name="food_layout" id="0x7f030002" type="layout"/>
+    <public name="neko_activity" id="0x7f030003" type="layout"/>
+
+    <public name="app_name" id="0x7f040000" type="string"/>
+    <public name="notification_name" id="0x7f040001" type="string"/>
+    <public name="default_tile_name" id="0x7f040002" type="string"/>
+    <public name="notification_title" id="0x7f040003" type="string"/>
+    <public name="default_cat_name" id="0x7f040004" type="string"/>
+    <public name="directory_name" id="0x7f040005" type="string"/>
+
+    <public name="food_names" id="0x7f050000" type="array"/>
+    <public name="food_icons" id="0x7f050001" type="array"/>
+    <public name="food_intervals" id="0x7f050002" type="array"/>
+    <public name="food_new_cat_prob" id="0x7f050003" type="array"/>
+
+    <public name="contextGroup" id="0x7f060000" type="id"/>
+    <public name="icon" id="0x7f060001" type="id"/>
+    <public name="text" id="0x7f060002" type="id"/>
+    <public name="holder" id="0x7f060003" type="id"/>
+</resources>
