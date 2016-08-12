@@ -1,4 +1,4 @@
-# STUDY ONLY
+# for *** STUDY ONLY ***
 But collect cats in your Android 7.0 now.
 
 # Acknowledgments
