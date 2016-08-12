@@ -1,5 +1,5 @@
-# STUDY ONLE
-Collect cats in your Android 7.0 now.
+# STUDY ONLY
+But collect cats in your Android 7.0 now.
 
 # Acknowledgments
 1. https://github.com/iBotPeaches/Apktool
