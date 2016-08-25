@@ -1,6 +1,10 @@
 # *** STUDY ONLY ***
 But catCH cats in your Android 7.0 now.
 
+# Google all rights reserved.
+Official source code now has released:  
+https://android.googlesource.com/platform/frameworks/base/+/android-7.0.0_r1/packages/EasterEgg/
+
 # Acknowledgments
 1. https://github.com/iBotPeaches/Apktool
 2. https://github.com/JesusFreke/smali
@@ -8,5 +12,3 @@ But catCH cats in your Android 7.0 now.
 4. https://github.com/testwhat/SmaliEx
 5. https://github.com/Konloch/bytecode-viewer
 6. etc. Love you all~
-
-# Google all rights reserved.
